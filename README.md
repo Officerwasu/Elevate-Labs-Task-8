@@ -73,7 +73,7 @@ This hands-on experience confirmed that VPNs effectively alter your IP address, 
 
 ## References
 
-1. ProtonVPN Free Plan Overview – ProtonVPN Official Site  
+1. ProtonVPN Free Plan Overview – ProtonVPN Official Site   
 2. OpenVPN Installation on Kali Linux – Kali.org Docs  
 3. ProtonVPN OpenVPN Configuration Guide – ProtonVPN Support  
 4. WhatIsMyIPAddress.com – IP Lookup Tools  
